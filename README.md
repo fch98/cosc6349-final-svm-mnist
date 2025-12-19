@@ -45,6 +45,15 @@ Confusion matrix shows very low misclassification between digits 2 and 3.
 
 Detailed metrics are saved in:
 
+results/metrics.txt
+
+## Project Report
+
+The final project report is included in this repository:
+
+📄 Chaudhry_Binary_Classification_of_Handwritten_Digits_Using_Support_Vector_Machines.pdf
+
+
 ## Dependencies
 
 See requirements.txt.
