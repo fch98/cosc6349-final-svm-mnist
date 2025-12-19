@@ -1,0 +1,13 @@
+MNIST Digits 2 vs 3 (Binary: 2->0, 3->1)
+
+Linear SVM
+Accuracy: 0.9740450538687562
+Confusion Matrix:
+[[1001   31]
+ [  22  988]]
+
+RBF SVM
+Accuracy: 0.9897159647404505
+Confusion Matrix:
+[[1025    7]
+ [  14  996]]
